@@ -1,0 +1,6 @@
+/workspace/spring-aop-logging/src/main/java/com/javatechie/spring/aop/api/controller/ProductController.java
+/workspace/spring-aop-logging/src/main/java/com/javatechie/spring/aop/api/SpringAopLoggingApplication.java
+/workspace/spring-aop-logging/src/main/java/com/javatechie/spring/aop/api/repository/ProductRepository.java
+/workspace/spring-aop-logging/src/main/java/com/javatechie/spring/aop/api/service/ProductService.java
+/workspace/spring-aop-logging/src/main/java/com/javatechie/spring/aop/api/advice/LoggingAdvice.java
+/workspace/spring-aop-logging/src/main/java/com/javatechie/spring/aop/api/model/Product.java
